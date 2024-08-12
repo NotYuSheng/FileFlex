@@ -7,4 +7,4 @@
 To easily host online for free, follow instruction on: [Vercel](https://vercel.com/new) 
 
 ## Credit
-[[Original creator of FileFlex](github.com/thegr8binil)]
+[[Original creator of FileFlex](https://github.com/thegr8binil)]
